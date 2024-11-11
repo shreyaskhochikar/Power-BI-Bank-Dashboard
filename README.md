@@ -11,6 +11,8 @@ This repository contains a Power BI dashboard for banking data analysis. The das
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 
+![Power BI Dashboard](Assets/Dashboard_Bank.PNG)
+
 ## Overview
 
 The Bank Dashboard is designed for financial data visualization, allowing stakeholders to analyze various metrics, identify trends, and make informed decisions. This project uses Power BI to provide a user-friendly interface and interactive reports.
