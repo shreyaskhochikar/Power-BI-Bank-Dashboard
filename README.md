@@ -33,8 +33,7 @@ The Bank Dashboard is designed for financial data visualization, allowing stakeh
 
 1. **Clone the Repository**:
    ```ruby
-   git clone https://github.com/yourusername/bank-dashboard.git
-   cd bank-dashboard
+   git clone https://github.com/shreyaskhochikar/Power-BI-Bank-Dashboard.git
    ```
 2. **Open the Power BI File: Open the Bank_Dashboard.pbix file in Power BI Desktop to view and modify the dashboard**.
 
